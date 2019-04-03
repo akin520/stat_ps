@@ -1,0 +1,3 @@
+pt_pay_frist_1day
+ptlogin1time
+pt_frist_login_1day
